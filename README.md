@@ -3,6 +3,13 @@
 ## Overview
 Crochet Animator is an innovative Blender add-on designed to transform written crochet patterns into detailed, step-by-step 3D animations. This tool aims to aid crochet enthusiasts and designers by providing a dynamic way to learn new stitches and visualize finished patterns.
 
+In basic terms:
+1. It will take your crochet pattern and convert it to a readable format for our script using machine learning (We feed it out pattern format and your pattern to convert)
+2. Now it will use bezier curves and our yarn style modifiers in blender to create the pattern following each step as if you were doing it yourself.
+3. For each step it does, it will insert a keyframe so we can play through the entire animation process of it being created.
+4. Now you adjust the color curve of the yarn, randomness to stitch tightness etc using the sidebar plugin.
+5. If you now wish to follow the pattern yourself, can move the camera around in the 3D space and look exactly how the stitch is being done or simply sit back and test your patterns or create your own to sell.
+
 ## Features
 - **Hook & Yarn Tracking**: Real-time monitoring of hook and yarn positions for accurate stitch animation.
 - **Bezier Curve Yarn**: Yarn simulated using Blender's bezier curves for realistic flexibility and movement.
