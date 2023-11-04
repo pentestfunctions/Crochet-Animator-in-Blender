@@ -19,6 +19,9 @@ In basic terms:
 - **Keyframe Automation**: Automated insertion of keyframes for smooth transition between crochet actions.
 - **User Interface**: Intuitive UI for easy input of crochet patterns and navigation of animations.
 
+![alt text]([http://url/to/img.png](https://github.com/pentestfunctions/Crochet-Animator-in-Blender/blob/main/sampleidea.gif?raw=true))
+
+
 ## Getting Started
 To get started with the Crochet Animator, please follow the installation instructions below.
 
